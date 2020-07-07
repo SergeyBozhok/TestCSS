@@ -1,0 +1,12 @@
+H1{
+   text-align: center;
+   letter-spacing: 7px;
+   font-weight: 700;
+   font-size: 250%;
+   color: #faa21a;
+   text-transform: uppercase;
+   border:2px solid #faa21a;
+}
+p{
+   text-align: justify;
+}
