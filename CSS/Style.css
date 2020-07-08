@@ -1,4 +1,12 @@
-H1{
+body{
+   font-family: 'Courier New', Courier, monospace;
+   border: 1px double black;
+   padding: 20;
+   margin: 20;
+}
+
+
+#Header{
    text-align: center;
    letter-spacing: 7px;
    font-weight: 700;
@@ -6,7 +14,16 @@ H1{
    color: #faa21a;
    text-transform: uppercase;
    border:2px solid #faa21a;
+   padding: 40px;
+   margin: 40px auto;
+   width: 700px;
+   height: 150px;
 }
-p{
+p, h2, h3{
    text-align: justify;
+   border-bottom: 1px dotted #800a0a;
+   margin: 60px;
+}
+li {
+   border: 1px double #3406da;
 }
