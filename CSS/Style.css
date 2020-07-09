@@ -7,6 +7,10 @@ body{
    background-image:url(../images/body.png) ;
 
 }
+#myImg {
+   float: right;
+   margin: 10px 60px 20px 20px;
+}
 
 #fon{
    width: 1000px;
@@ -34,7 +38,7 @@ body{
 p, h2, h3{
    text-align: justify;
    margin: 60px;
-   outline: 1px solid #3406da;
+   outline: 0px solid #3406da;
 }
 li {
    border: 1px solid #3406da;
